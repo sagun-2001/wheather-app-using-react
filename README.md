@@ -1,1 +1,1 @@
-# wheather-app-using-react
+# wheather-app-using-javascript
